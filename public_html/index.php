@@ -349,10 +349,10 @@ dialog{border:0;border-radius:22px;padding:0;width:min(760px,calc(100% - 24px));
           <p>Smart matching powered by AI. Connecting skilled workers, employers and recruitment partners around the world.</p>
           <h4 class="social-heading">Follow BlueeWork</h4>
           <div class="social-links" aria-label="BlueeWork social media">
-            <a href="https://www.facebook.com/share/1CE6jhAqUx/" aria-label="BlueeWork on Facebook" title="Facebook profile URL to be added">
+            <a href="https://www.facebook.com/share/1CE6jhAqUx/" aria-label="BlueeWork on Facebook" title="Facebook profile URL to be added" target="_blank">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 21v-8h2.7l.4-3.1h-3.1v-2c0-.9.3-1.5 1.6-1.5h1.7V3.6c-.3 0-1.3-.1-2.5-.1-2.5 0-4.2 1.5-4.2 4.3v2.1H7.3V13h2.8v8h3.4z"/></svg>
             </a>
-            <a href="https://www.linkedin.com/company/blueework/" aria-label="BlueeWork on LinkedIn" title="LinkedIn profile URL to be added">
+            <a href="https://www.linkedin.com/company/blueework/" aria-label="BlueeWork on LinkedIn" title="LinkedIn profile URL to be added" target="_blank">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.2 3.5A2.2 2.2 0 1 1 5.2 8a2.2 2.2 0 0 1 0-4.5zM3.4 9.5h3.6V21H3.4zM9.3 9.5h3.4v1.6h.1a3.8 3.8 0 0 1 3.4-1.9c3.6 0 4.3 2.3 4.3 5.3V21h-3.6v-5.8c0-1.4 0-3.2-2-3.2s-2.3 1.5-2.3 3.1V21H9.3z"/></svg>
             </a>
             <!-- <a href="#" data-social-link="TikTok" aria-label="BlueeWork on TikTok" title="TikTok profile URL to be added">
