@@ -526,5 +526,5 @@ try {
     bwLog('Processing failed for ' . $reference . ': ' . $error->getMessage(), $logDir);
     if (!is_file($xlsxPath) && $uploadDir !== $uploadRoot) bwCleanupDirectory($uploadDir);
     if ($xlsxPath !== '' && is_file($xlsxPath . '.tmp')) @unlink($xlsxPath . '.tmp');
-    bwRespond(500, 'We could not finish your submission', 'Please try again later or contact hello@blueework.com. If the problem continues, the BlueeWork administrator should check the private server log.');
+    bwRespond(500, 'We could not finish your submission', 'Please try again later or contact partners@blueework.com. If the problem continues, the BlueeWork administrator should check the private server log.');
 }

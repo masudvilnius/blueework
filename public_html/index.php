@@ -366,7 +366,7 @@ dialog{border:0;border-radius:22px;padding:0;width:min(760px,calc(100% - 24px));
         </div>
         <div><h4>Get started</h4><a href="#candidates">For candidates</a><a href="#employers">For employers</a><a href="#partners">For partners</a></div>
         <div><h4>Platform</h4><a href="#trades">Worker categories</a><a href="#how-it-works">How it works</a><a href="#" data-open="partnerDialog">Partner onboarding</a><a href="#" data-open="employerDialog">Manpower requisition</a></div>
-        <div><h4>Contact</h4><a href="mailto:hello@blueework.com">hello@blueework.com</a><a href="#" data-open="partnerDialog">Partner enquiries</a></div>
+        <div><h4>Contact</h4><a href="mailto:partners@blueework.com">partners@blueework.com</a><a href="#" data-open="partnerDialog">Partner enquiries</a></div>
         <div>
           <h4>Legal entities</h4>
           <div class="legal-entity">
