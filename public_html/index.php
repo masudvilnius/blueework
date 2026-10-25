@@ -349,18 +349,18 @@ dialog{border:0;border-radius:22px;padding:0;width:min(760px,calc(100% - 24px));
           <p>Smart matching powered by AI. Connecting skilled workers, employers and recruitment partners around the world.</p>
           <h4 class="social-heading">Follow BlueeWork</h4>
           <div class="social-links" aria-label="BlueeWork social media">
-            <a href="#" data-social-link="Facebook" aria-label="BlueeWork on Facebook" title="Facebook profile URL to be added">
+            <a href="https://www.facebook.com/share/1CE6jhAqUx/" data-social-link="Facebook" aria-label="BlueeWork on Facebook" title="Facebook profile URL to be added">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 21v-8h2.7l.4-3.1h-3.1v-2c0-.9.3-1.5 1.6-1.5h1.7V3.6c-.3 0-1.3-.1-2.5-.1-2.5 0-4.2 1.5-4.2 4.3v2.1H7.3V13h2.8v8h3.4z"/></svg>
             </a>
-            <a href="#" data-social-link="LinkedIn" aria-label="BlueeWork on LinkedIn" title="LinkedIn profile URL to be added">
+            <a href="https://www.linkedin.com/company/blueework/" data-social-link="LinkedIn" aria-label="BlueeWork on LinkedIn" title="LinkedIn profile URL to be added">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.2 3.5A2.2 2.2 0 1 1 5.2 8a2.2 2.2 0 0 1 0-4.5zM3.4 9.5h3.6V21H3.4zM9.3 9.5h3.4v1.6h.1a3.8 3.8 0 0 1 3.4-1.9c3.6 0 4.3 2.3 4.3 5.3V21h-3.6v-5.8c0-1.4 0-3.2-2-3.2s-2.3 1.5-2.3 3.1V21H9.3z"/></svg>
             </a>
-            <a href="#" data-social-link="TikTok" aria-label="BlueeWork on TikTok" title="TikTok profile URL to be added">
+            <!-- <a href="#" data-social-link="TikTok" aria-label="BlueeWork on TikTok" title="TikTok profile URL to be added">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.6 7.4a6.6 6.6 0 0 1-4-1.3v8.1a5.7 5.7 0 1 1-5.7-5.7c.4 0 .8 0 1.2.1v3.2a2.6 2.6 0 1 0 1.8 2.5V2.5h3.1c.2 2.2 1.7 4 3.9 4.4v.5h-.3z"/></svg>
             </a>
             <a href="#" data-social-link="YouTube" aria-label="BlueeWork on YouTube" title="YouTube channel URL to be added">
               <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M23.2 7a3 3 0 0 0-2.1-2.1C19.3 4.4 12 4.4 12 4.4s-7.3 0-9.1.5A3 3 0 0 0 .8 7 31 31 0 0 0 .3 12c0 1.7.1 3.4.5 5a3 3 0 0 0 2.1 2.1c1.8.5 9.1.5 9.1.5s7.3 0 9.1-.5a3 3 0 0 0 2.1-2.1c.4-1.6.5-3.3.5-5s-.1-3.4-.5-5zM9.7 15.7V8.3l6.2 3.7-6.2 3.7z"/></svg>
-            </a>
+            </a> -->
           </div>
           <p style="font-size:.76rem;margin-top:10px">Official social profile links can be connected before launch.</p>
         </div>
